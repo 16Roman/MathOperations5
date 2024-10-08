@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MathOPs_5_Giannuzzi/1.0.0": {
+        "runtime": {
+          "MathOPs_5_Giannuzzi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathOPs_5_Giannuzzi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

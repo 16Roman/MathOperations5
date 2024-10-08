@@ -1,0 +1,42 @@
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.AssemblyInfo.cs
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.exe
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.deps.json
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.runtimeconfig.json
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.dll
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.pdb
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.dll
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\obj\Debug\net6.0\refint\MathOPs_5_Giannuzzi.dll
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.pdb
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.genruntimeconfig.cache
+\\Mac\Home\Documents\MathOPs_5_Giannuzzi\obj\Debug\net6.0\ref\MathOPs_5_Giannuzzi.dll
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.exe
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.deps.json
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.runtimeconfig.json
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.dll
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.pdb
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.AssemblyInfo.cs
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.dll
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\refint\MathOPs_5_Giannuzzi.dll
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.pdb
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.genruntimeconfig.cache
+\\Mac\Home\Desktop\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\ref\MathOPs_5_Giannuzzi.dll
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.exe
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.deps.json
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.runtimeconfig.json
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.dll
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Debug\net6.0\MathOPs_5_Giannuzzi.pdb
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.AssemblyInfo.cs
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.dll
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\refint\MathOPs_5_Giannuzzi.dll
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.pdb
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\MathOPs_5_Giannuzzi.genruntimeconfig.cache
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\obj\Debug\net6.0\ref\MathOPs_5_Giannuzzi.dll

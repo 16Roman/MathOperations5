@@ -1,0 +1,5 @@
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Release\net6.0\app.publish\MathOPs_5_Giannuzzi.exe
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Release\net6.0\app.publish\MathOPs_5_Giannuzzi.dll
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Release\net6.0\app.publish\MathOPs_5_Giannuzzi.deps.json
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Release\net6.0\app.publish\MathOPs_5_Giannuzzi.runtimeconfig.json
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\MathOPs_Exercise_Giannuzzi\MathOPs_5_Giannuzzi\bin\Release\net6.0\app.publish\MathOPs_5_Giannuzzi.pdb
